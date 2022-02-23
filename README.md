@@ -1,2 +1,3 @@
 # Assignments
-Docker-spring boot application 1
+Assignment 4
+Run LAMP Stack using docker compose
